@@ -1,4 +1,3 @@
-
 $(function(){
 
   function atualizar_informacoes() {
@@ -22,7 +21,7 @@ $(function(){
       {
         breakpoint: 640,
         settings: {
-          slidesToShow: 2
+          slidesToShow: 1
         }
       }
     ]
@@ -33,4 +32,3 @@ $(function(){
   });
 
 })
-
